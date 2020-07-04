@@ -1,0 +1,8 @@
+{
+    "uuid": "polux-shell@henriqueqc.com",
+    "name": "Polux Shell",
+    "description": "A shell for Polux.",
+    "version": 1,
+    "shell-version": ["3.36"],
+    "url": "https://github.com/henriqueqc/polux-shell"
+}
